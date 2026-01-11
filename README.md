@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Olá, eu sou Gabriel Salermo 👋
+# Olá, eu sou Gabriel Salermo 😎
 
 <div align="center">
   <a href="https://git.io/typing-svg">
