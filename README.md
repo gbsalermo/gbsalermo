@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou estudante de **Engenharia da Computação pela Universidade Federal do Recôncavo da Bahia (UFRB)**, com formação voltada para **sistemas computacionais, lógica e engenharia de software**.
+Sou estudante de **Engenharia da Computação pela Universidade Federal do Recôncavo da Bahia (UFRB)**, com formação voltada para **desenvolvimento de sistemas e engenharia de software**.
 
 Atuo principalmente no desenvolvimento **backend em Java**, com sólida base em **arquitetura de sistemas**, além de experiência prática em **robótica, automação e sistemas embarcados**. Minha trajetória combina **programação de software**, **infraestrutura de TI**, **redes de computadores** e **integração com hardware**, passando desde a concepção até a implementação de soluções técnicas.
 
